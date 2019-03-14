@@ -11,7 +11,7 @@ Once you're done with your changes send a pull request. Thanks!
 
 You can inspect how your edits will be reflected by the documentation site.
 
-### Install dependencies
+### Install dependenciesf
 
 1. Make sure you have Ruby and RubyGems installed.
 
